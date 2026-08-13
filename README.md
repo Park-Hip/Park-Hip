@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I am a First-year AI Major at UIT.<br>🔭 Current Focus: Building robust RAG pipelines and Agentic Systems.<br>🧠  Interests: Deep Learning, Recommendation Engines, and LLM Orchestration.<br>🤝 I’m always open to collaborate on any projects and competitions!
+👋 I am a First-year AI Major at UIT.<br>🔭 Current Focus: Building robust RAG pipelines and Agentic Systems.<br>🧠  Interests: Deep Learning, and LLM Orchestration.<br>🤝 I’m always open to collaborate on any projects and competitions!
 
 
 ## 🌐 Socials:
